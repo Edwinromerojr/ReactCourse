@@ -1,12 +1,11 @@
-import Button from "./ClickEvent";
-import ProfilePicture from "./ProfilePicture";
+import MyComponent from "./MyComponent";
+import Counter from "./Counter";
 
 function App() {
 
   return(
     <>
-      <Button/>
-      <ProfilePicture/>
+      <Counter/>
     </>
   );
 }
