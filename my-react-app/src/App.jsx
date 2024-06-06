@@ -1,11 +1,11 @@
-import MyComponent1 from "./MyComponent1";
+import ColorPicker from "./ColorPicker";
 
 
 function App() {
 
   return(
     <>
-      <MyComponent1/>
+      <ColorPicker/>
     </>
   );
 }
