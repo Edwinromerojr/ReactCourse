@@ -1,11 +1,11 @@
-import ColorPicker from "./ColorPicker";
+import Counter1 from "./Updater";
 
 
 function App() {
 
   return(
     <>
-      <ColorPicker/>
+      <Counter1/>
     </>
   );
 }
