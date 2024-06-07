@@ -1,11 +1,11 @@
-import Counter1 from "./Updater";
+import Component from "./UpdateObject";
 
 
 function App() {
 
   return(
     <>
-      <Counter1/>
+      <Component/>
     </>
   );
 }
