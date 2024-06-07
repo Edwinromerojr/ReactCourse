@@ -1,11 +1,11 @@
-import ComponentArray from "./UpdateArray";
+import ArrayObject from "./UpdateArrayObject";
 
 
 function App() {
 
   return(
     <>
-      <ComponentArray/>
+      <ArrayObject/>
     </>
   );
 }
