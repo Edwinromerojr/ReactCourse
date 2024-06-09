@@ -1,11 +1,11 @@
-import Effect1 from "./EffectHook1";
+import DigitalClock from "./DigitalClock";
 
 
 function App() {
 
   return(
     <>
-      <Effect1/>
+      <DigitalClock/>
     </>
   );
 }
