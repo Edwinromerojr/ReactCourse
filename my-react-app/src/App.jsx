@@ -1,11 +1,11 @@
-import ToDoList from "./ToDoList";
+import Effect1 from "./EffectHook1";
 
 
 function App() {
 
   return(
     <>
-      <ToDoList/>
+      <Effect1/>
     </>
   );
 }
