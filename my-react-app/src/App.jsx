@@ -1,10 +1,10 @@
-import Reference from "./Reference";
+import Stopwatch from "./Stopwatch";
 
 function App() {
 
   return(
     <>
-      <Reference/>
+      <Stopwatch/>
     </>
   );
 }
